@@ -13,7 +13,10 @@ DATABASE_NAME = 'database'
 DATABASE_USERNAME = 'root'
 DATABASE_PASSWORD = ''
 ```
-
+### Running Migrate - Database
+```
+php artisan migrate
+```
 ### Running Webservices - Restful API
 ```
 php artisan serve
