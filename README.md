@@ -20,7 +20,7 @@ php artisan serve
 ```
 
 ### CREATE USER API
-<img src="https://i.ibb.co.com/J5M6bTg/productlist.png" alt="create user api" border="0">
+<img src="https://i.ibb.co.com/F7ctSbF/createuser.png" alt="createuser" border="0">
 
 ### GET USERS API
 <img src="https://i.ibb.co.com/9smtQT6/datausers.png" alt="datausers" border="0">
