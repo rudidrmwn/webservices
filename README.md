@@ -23,5 +23,5 @@ php artisan serve
 <img src="https://i.ibb.co.com/J5M6bTg/productlist.png" alt="create user api" border="0">
 
 ### GET USERS API
-<img src="https://i.ibb.co.com/k8cjmJ1/searchcategory.png" alt="get users api" border="0">
+<img src="https://ibb.co.com/18Y6Fq1" alt="get users api" border="0">
 
